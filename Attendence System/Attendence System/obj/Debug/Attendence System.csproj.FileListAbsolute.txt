@@ -1,0 +1,15 @@
+E:\C# course (MIT)\Attendence System\Attendence System\bin\Debug\Attendence System.exe.config
+E:\C# course (MIT)\Attendence System\Attendence System\bin\Debug\Attendence System.exe
+E:\C# course (MIT)\Attendence System\Attendence System\bin\Debug\Attendence System.pdb
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence System.csprojResolveAssemblyReference.cache
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.Properties.Resources.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence System.csproj.GenerateResource.Cache
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence System.exe
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence System.pdb
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.MainForm.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.FacultyForm.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.DepartmentForm.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.ProgramForm.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.BatchForm.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.TeacherForm.resources
+E:\C# course (MIT)\Attendence System\Attendence System\obj\Debug\Attendence_System.StudentRegistrationForm.resources
